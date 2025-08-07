@@ -1,6 +1,6 @@
   
 
-# # Hire-ME
+# # Quickhire
 
 
 ###  DBMS Mini-project: Recruitment Management System.💫✨
@@ -47,5 +47,6 @@ python main.py
 - More Features can be added like we can make Resume on it and can share to nearby recruiters
 -  Super-User(Admin) Panel For Future Features.
 - many more ...
+
 
 
