@@ -19,7 +19,7 @@
 ##### Clone the repository
 
 ```bash
-git clone https://github.com/karan0805/Hire-Me.git
+git clone https://github.com/RICKDTM/Quickhire.git
 ```
 
 ##### Move to the desired folder
@@ -47,4 +47,5 @@ python main.py
 - More Features can be added like we can make Resume on it and can share to nearby recruiters
 -  Super-User(Admin) Panel For Future Features.
 - many more ...
+
 
